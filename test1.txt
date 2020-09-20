@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 625B-953E
-
- Directory of C:\Users\Admin\Desktop\MyProject
-
-09/20/2020  08:20 AM    <DIR>          .
-09/20/2020  08:20 AM    <DIR>          ..
-09/20/2020  08:20 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  737,058,021,376 bytes free
+Hello
